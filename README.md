@@ -3,8 +3,8 @@ I am a Software Developer from Germany 👋
 
 ### 👷 Check out what I'm currently working on
 
-* [Template Generator written in go](https://github.com/JuicyLung91/example-go-template-generator)
-* [Custom cli for scaffolding boiplerplate code for shopware 6 plugins](https://github.com/pureware/pureware-cli)
+* [Example template generator written in go](https://github.com/JuicyLung91/example-go-template-generator)
+* [Custom cli for scaffolding boilerplate code for shopware 6 plugins](https://github.com/pureware/pureware-cli)
 
 
 
