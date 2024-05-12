@@ -1,18 +1,17 @@
 ### Hi there 👋
+I am a Software Developer from Germany 👋
 
+### 👷 Check out what I'm currently working on
+
+* [Template Generator written in go](https://github.com/JuicyLung91/example-go-template-generator)
+* [Custom cli for scaffolding boiplerplate code for shopware 6 plugins](https://github.com/pureware/pureware-cli)
+
+
+
+### 📊 My stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuicyLung91&layout=compact)
 
-<!--
-**JuicyLung91/JuicyLung91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+* Golang
